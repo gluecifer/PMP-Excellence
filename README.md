@@ -8,13 +8,13 @@ The PMP wants to establish a standard for
 
 It is a collection of guidlines and rules as the basis of a globally recognized standard for project managers. The standard is defined in the *Project Management Body of Knowledge* (PMBOK Guide). 
 The PMBOK Guide is no strikt compendium, rather a collection of *best practices*, which are divided into
-+ 13 knowledge areas
++ 10 knowledge areas
 + 5 process groups 
 + 49 single processes
 
 ## What it is all about
 There are 5 process groups which host the 49 different processes, which are organized in matrix form and are related 
-to 13 knowledge areas.
+to 10 knowledge areas.
 
 | Process group 1  | Process group 2  | Process group 3  | Process group 4  | Process group 5  |
 |---|---|---|---|---|
@@ -49,20 +49,20 @@ The above quote reveals another important aspect of projects: A project creates 
 However, there is more to a succesfull project than simply creating the necessary deliverables. Moreover, a succesfull project conforms with the scope, time and cost budget. It satisfies contracts and reaches quality standards. Sometimes the project goals are hard facts like reaching financial goals measured in the *Net Present Value* or softer goals like reaching the acceptance of various stakeholders.
 
 ### Knowledge areas
-The 13 *Knowledge Areas* are the (theoretical) sub-parts of each project. Think about it this way: A project needs a defined scope, which is worked on during a defined amount of time, not costing more than an expected amount of money. Adding in more complexity, the deliverables have to fullfil certain quality standards and so on and so forth. The more complex a project is, the more things need to be considered. Although, even small projects can demand working on all knowledge areas. The complexer the project, though, the complexer or more time-consuming each knowledge area will be.  
+The 10 *Knowledge Areas* are the (theoretical) sub-parts of each project. Think about it this way: A project needs a defined scope, which is worked on during a defined amount of time, not costing more than an expected amount of money. Adding in more complexity, the deliverables have to fullfil certain quality standards and so on and so forth. The more complex a project is, the more things need to be considered. Although, even small projects can demand working on all knowledge areas. The complexer the project, though, the complexer or more time-consuming each knowledge area will be.  
 
-| Knowledge Areas  | 
-|---|
-| Integration management |
-| Scope management |
-| Schedule management |
-| Cost management |
-| Quality management |
-| Resource management |
-| Communication management |
-| Risk management |
-| Procurement management |
-| Stakeholder management |
+|| Knowledge Areas  | 
+|---|---|
+|1| Integration management |
+|2| Scope management |
+|3| Schedule management |
+|4| Cost management |
+|5| Quality management |
+|6| Resource management |
+|7| Communication management |
+|8| Risk management |
+|9| Procurement management |
+|10| Stakeholder management |
 
 ### Project management
 Effective project management will require knowledge, skills and the mastering of techniques or tools. With this set of skills the project-defining requirements can be identified and constraints (e.g. the [*Triple Constraint*](https://en.wikipedia.org/wiki/Project_management_triangle),) can be balanced against each other.
