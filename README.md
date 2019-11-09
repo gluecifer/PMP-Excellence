@@ -12,3 +12,10 @@ The PMBOK Guide is no strikt compendium, rather a collection of *best practices*
 + 5 process groups 
 + 49 single processes
 
+## What it is all about
+There are 5 process groups which host the 49 different processes, which are organized in matrix form and are related 
+to 13 knowledge areas.
+
+| Process group 1  | Process group 2  | Process group 3  | Process group 4  | Process group 5  |
+|---|---|---|---|---|
+| Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
