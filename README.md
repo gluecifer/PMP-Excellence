@@ -71,3 +71,9 @@ Effective project management will require knowledge, skills and the mastering of
 
 [triple]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Project-triangle-en.svg/1024px-Project-triangle-en.svg.png
 
+### Processes
+A single process describes actions, whether they are connected or bi-directional, which are necessary to reach a defined goal.
+On a high-level a process is defined by its *inputs*, *tools and techniques* and its *outputs*.
+There are two main categories of processes:
++ *Project management processes*: Ensuring an efficient project workflow.
++ *Product-centred processes*: Defined by the product lifecylce and varying with the area of application.
