@@ -22,9 +22,9 @@ to 13 knowledge areas.
 
 Taking a closer look at the process groups reveals the underlying principle behind the PMP guidlines: Plan - Do - Check - Act  ([PDCA](https://en.wikipedia.org/wiki/PDCA)) or the Deming circle. The PDCA principle and it's derivatives are not only the basics of the PMP methodology, but when you add observations to it, it becomes the foundation of [lean management](https://en.wikipedia.org/wiki/Lean_manufacturing) or the [Toyota production system](https://en.wikipedia.org/wiki/Toyota_Production_System).
 
-![alt text][logo]
+![alt text][pdca]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" 
+[pdca]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" 
 
 The difference between the original idea behind PDCA and the PMP methodology is the add-on of the *initiating* and *closing* groups.
 
@@ -48,8 +48,8 @@ The above quote reveals another important aspect of projects: A project creates 
 
 However, there is more to a succesfull project than simply creating the necessary deliverables. Moreover, a succesfull project conforms with the scope, time and cost budget. It satisfies contracts and reaches quality standards. Sometimes the project goals are hard facts like reaching financial goals measured in the *Net Present Value* or softer goals like reaching the acceptance of various stakeholders.
 
-### Knowledge Areas
-The 13 *Knowledge Areas* are the (theoretiacal) sub-parts of each project. Think about it this way: A project needs a defined scope, which is worked on during a defined amount of time, not costing more than an expected amount of money. Adding in more complexity, the deliverables have to fullfil certain quality standards and so on and so forth. The more complex a project is, the more things need to be considered. Although, even small projects can demand working on all knowledge areas. The complexer the project, though, the complexer or more time-consuming each knowledge area will be.  
+### Knowledge areas
+The 13 *Knowledge Areas* are the (theoretical) sub-parts of each project. Think about it this way: A project needs a defined scope, which is worked on during a defined amount of time, not costing more than an expected amount of money. Adding in more complexity, the deliverables have to fullfil certain quality standards and so on and so forth. The more complex a project is, the more things need to be considered. Although, even small projects can demand working on all knowledge areas. The complexer the project, though, the complexer or more time-consuming each knowledge area will be.  
 
 | Knowledge Areas  | 
 |---|
@@ -64,3 +64,9 @@ The 13 *Knowledge Areas* are the (theoretiacal) sub-parts of each project. Think
 | Procurement management |
 | Stakeholder management |
 
+### Project management
+Effective project management will require knowledge, skills and the mastering of techniques or tools. With this set of skills the project-defining requirements can be identified and constraints (e.g. the [*Triple Constraint*](https://en.wikipedia.org/wiki/Project_management_triangle),) can be balanced against each other.
+
+![alt text][triple]
+
+[triple]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Project-triangle-en.svg/1024px-Project-triangle-en.svg.png
