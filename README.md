@@ -65,8 +65,9 @@ The 10 *Knowledge Areas* are the (theoretical) sub-parts of each project. Think 
 |10| Stakeholder management |
 
 ### Project management
-Effective project management will require knowledge, skills and the mastering of techniques or tools. With this set of skills the project-defining requirements can be identified and constraints (e.g. the [*Triple Constraint*](https://en.wikipedia.org/wiki/Project_management_triangle),) can be balanced against each other.
+Effective project management will require knowledge, skills and the mastering of techniques or tools. With this set of skills the project-defining requirements can be identified and constraints (e.g. the [*Triple Constraint*](https://en.wikipedia.org/wiki/Project_management_triangle),) can be balanced against each other. Along the life of the project, assumptions, which were necessary at the start of the projects, get verifyied and information gets more detailed. The project is *progressively elaborated*. 
 
 ![alt text][triple]
 
 [triple]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Project-triangle-en.svg/1024px-Project-triangle-en.svg.png
+
