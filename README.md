@@ -81,8 +81,13 @@ Processes can be an input to another process. If all processes are worked throug
 Processes can be divided in sequential, parallel and iteractive schemes.
 
 ![alt text][sequential]
+
 [sequential]: ./assets/images/sequential.png
+
 ![alt text][parallel]
+
 [parallel]: ./assets/images/parallel.png
+
 ![alt text][interactive]
+
 [interactive]: ./assets/images/interactive.png
