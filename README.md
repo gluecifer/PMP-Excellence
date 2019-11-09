@@ -49,6 +49,7 @@ The above quote reveals another important aspect of projects: A project creates 
 However, there is more to a succesfull project than simply creating the necessary deliverables. Moreover, a succesfull project conforms with the scope, time and cost budget. It satisfies contracts and reaches quality standards. Sometimes the project goals are hard facts like reaching financial goals measured in the *Net Present Value* or softer goals like reaching the acceptance of various stakeholders.
 
 ### Knowledge Areas
+The 13 *Knowledge Areas* are the (theoretiacal) sub-parts of each project. Think about it this way: A project needs a defined scope, which is worked on during a defined amount of time, not costing more than an expected amount of money. Adding in more complexity, the deliverables have to fullfil certain quality standards and so on and so forth. The more complex a project is, the more things need to be considered. Although, even small projects can demand working on all knowledge areas. The complexer the project, though, the complexer or more time-consuming each knowledge area will be.  
 
 | Knowledge Areas  | 
 |---|
@@ -62,3 +63,4 @@ However, there is more to a succesfull project than simply creating the necessar
 | Risk management |
 | Procurement management |
 | Stakeholder management |
+
