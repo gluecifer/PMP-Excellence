@@ -83,6 +83,7 @@ Processes can be divided in sequential, parallel and iteractive schemes.
 ![alt text][sequential]
 
 [sequential]: ./assets/images/sequential.png
+*Sequential process scheme*
 
 ![alt text][parallel]
 
