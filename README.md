@@ -24,6 +24,5 @@ Taking a closer look at the process groups reveals the underlying principle behi
 
 ![alt text][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" {: height=36 width=36}
-
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" 
 
