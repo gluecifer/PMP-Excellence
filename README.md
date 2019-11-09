@@ -19,3 +19,8 @@ to 13 knowledge areas.
 | Process group 1  | Process group 2  | Process group 3  | Process group 4  | Process group 5  |
 |---|---|---|---|---|
 | Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
+
+Taking a closer look at the process groups reveals the underlying principle behind the  
+![alt text][logo]
+
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png
