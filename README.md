@@ -46,4 +46,19 @@ Why a project is initiated can be due to:
 ### Project deliverables
 The above quote reveals another important aspect of projects: A project creates something and thus delivers this something in some way. Project deliverables can be a product (think a new car model), a service (a third-party opens a call-centre and offers its service as the customer support of the new car model) or a result. The latter might be only virtual, e.g. results of year-long research and development efforts or creatig the blueprints of the new car model, if you like. 
 
-However, there is more to a succesfull project than simply creating the necessary deliverables. Moreover, a succesfull project conforms with the scope, time and cost budget. It satisfies contracts, stakeholders and reaches quality standards. Sometimes the project goals are hard facts like reaching financial goals measured in...  
+However, there is more to a succesfull project than simply creating the necessary deliverables. Moreover, a succesfull project conforms with the scope, time and cost budget. It satisfies contracts and reaches quality standards. Sometimes the project goals are hard facts like reaching financial goals measured in the *Net Present Value* or softer goals like reaching the acceptance of various stakeholders.
+
+### Knowledge Areas
+
+| Knowledge Areas  | 
+|---|
+| Integration management |
+| Scope management |
+| Schedule management |
+| Cost management |
+| Quality management |
+| Resource management |
+| Communication management |
+| Risk management |
+| Procurement management |
+| Stakeholder management |
