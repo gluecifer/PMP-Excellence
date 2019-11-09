@@ -22,8 +22,8 @@ to 13 knowledge areas.
 
 Taking a closer look at the process groups reveals the underlying principle behind the PMP guidlines: Plan - Do - Check - Act  ([PDCA](https://en.wikipedia.org/wiki/PDCA))or the Deming circle. The PDCA principle and it's derivatives are not only the basics of the PMP methodology, but when you add observations to it, it becomes the foundation of [lean management](https://en.wikipedia.org/wiki/Lean_manufacturing) or the [Toyota production system](https://en.wikipedia.org/wiki/Toyota_Production_System).
 
-![alt text][logo]{: height=36 width=36}
+![alt text][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" 
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1280px-PDCA_Cycle.svg.png "PDCA circle" {: height=36 width=36}
 
 
