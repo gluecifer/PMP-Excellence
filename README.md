@@ -78,6 +78,12 @@ There are two main categories of processes:
 + *Project management processes*: Ensuring an efficient project workflow.
 + *Product-centred processes*: Defined by the product lifecylce and varying with the area of application.
 Processes can be an input to another process. If all processes are worked through, the project is completed. 
+Processes can be divided in sequential, parallel and iteractive schemes.
+
 ![alt text][sequential]
+![alt text][parallel]
+![alt text][interactive]
 
 [sequential]: ./assets/images/sequential.png
+[parallel]: ./assets/images/parallel.png
+[interactive]: ./assets/images/interactive.png
