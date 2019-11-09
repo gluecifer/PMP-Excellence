@@ -88,7 +88,16 @@ Processes can be divided in sequential, parallel and iteractive schemes.
 ![alt text][parallel]
 
 [parallel]: ./assets/images/parallel.png
+*Parallel process scheme*
 
 ![alt text][interactive]
 
 [interactive]: ./assets/images/interactive.png
+*Interactive process scheme*
+
+In the sequential process scheme yo do one phase activity at the same time. The other two models *fast track* to certain extends. However, doing several things at the same time comes with some disadvantages:
++ Higher in risk, but faster
++ Higher possibility for re-work
++ Higher cost due to re-work
++ Lower quality, if re-work is not possible
+
