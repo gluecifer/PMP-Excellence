@@ -101,3 +101,13 @@ In the sequential process scheme yo do one phase activity at the same time. The 
 + Higher cost due to re-work
 + Lower quality, if re-work is not possible
 
+### Classical projects vs. agile projects
+|Classical projects| Agile projects | 
+|---|---|
+|Command and control: Hierachical and centralized| Community-driven problem solving in a dynamic manner |
+|Decision making and compromising happens during the planning phase | Decision making early in the define phase|
+| Scope driven | Budget driven (time or money)|
+| Project runs long term (months/years) | Project lifetime smaller than 6 months|
+| Costs are not well defined | Added-value clearly defined |
+| Waterfall model | DMAIC: Define-Measure-Analyze-Improve-Control |
+| Slow and expensive reactions to changing requirements | Change requests are nearly impossible as requirements are set in the define phase |
