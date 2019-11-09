@@ -77,3 +77,17 @@ On a high-level a process is defined by its *inputs*, *tools and techniques* and
 There are two main categories of processes:
 + *Project management processes*: Ensuring an efficient project workflow.
 + *Product-centred processes*: Defined by the product lifecylce and varying with the area of application.
+Processes can be an input to another process. If all processes are worked through, the project is completed. 
+Processes can be divided in sequential, parallel and iteractive schemes.
+
+![alt text][sequential]
+
+[sequential]: ./assets/images/sequential.png
+
+![alt text][parallel]
+
+[parallel]: ./assets/images/parallel.png
+
+![alt text][interactive]
+
+[interactive]: ./assets/images/interactive.png
