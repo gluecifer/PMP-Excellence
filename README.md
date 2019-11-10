@@ -115,9 +115,9 @@ In the sequential process scheme yo do one phase activity at the same time. The 
 | Classical projects   | Agile projects   |
 |---|---|
 | Command and control: Hierachical and centralized  | Community-driven problem solving in a dynamic manner  |
-|   |   |
-|   |   |
-|   |   |
+| Decision making and compromising happens during the planning phase  | Decision making early in the define phase  |
+| Scope driven  | Budget driven (time or money)  |
+| Project runs long term (months/years)  | Project lifetime smaller than 6 months  |
 |   |   |
 |   |   |
 |   |   |
