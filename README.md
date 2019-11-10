@@ -118,6 +118,6 @@ In the sequential process scheme yo do one phase activity at the same time. The 
 | Decision making and compromising happens during the planning phase  | Decision making early in the define phase  |
 | Scope driven  | Budget driven (time or money)  |
 | Project runs long term (months/years)  | Project lifetime smaller than 6 months  |
-|   |   |
-|   |   |
+| Costs are not well defined  | Added-value clearly defined  |
+| Waterfall model   | DMAIC: Define-Measure-Analyze-Improve-Control  |
 |   |   |
