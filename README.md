@@ -80,6 +80,20 @@ There are two main categories of processes:
 Processes can be an input to another process. If all processes are worked through, the project is completed. 
 Processes can be divided in sequential, parallel and iteractive schemes.
 
+The PMP methodology defines 49 processes, ordered by *knowledge areas* and * process groups*:
+| Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
+|---|---|---|---|---|---|
+| Integration management  |   |   |   |   |   |
+| Scope management  |   |   |   |   |   |
+| Schedule management  |   |   |   |   |   |
+| Cost management  |   |   |   |   |   |
+| Quality management  |   |   |   |   |   |
+| Resource management  |   |   |   |   |   |
+| Communication management  |   |   |   |   |   |
+| Risk management  |   |   |   |   |   |
+| Procurement management  |   |   |   |   |   |
+| Stakeholder management  |   |   |   |   |   |
+
 ### Phases
 Project phases are sections within a project. They are usually depending on the product or the industry. Project phases are not to be confused with the *process groups*. Typically, phases are running in sequences, however, they might run in parallel. Normally, a phase ends with a phase gate at wich different deliverables are to be finished. The project is the sum of all phases. There are three main phase models:
 
