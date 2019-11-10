@@ -112,3 +112,14 @@ In the sequential process scheme yo do one phase activity at the same time. The 
 | Costs are not well defined  | Added-value clearly defined  |
 | Waterfall model   | DMAIC: Define-Measure-Analyze-Improve-Control  |
 | Slow and costly reactions to change requests  | Change requests hardly possible due to the early definition of requirements in the define phase  |
+
+### Project lifecycles
+Lifecycles of a project are ranging from classical to agile and anywhere in between. In the end the project manager has to tailor the lifecyle to the project, the product and the company culture.
+
+| Lifecycle name   | Description   |
+|---|---|
+| Predictive  |   |
+| Iterative  |  |
+| Incremental  |   |
+| Adaptive  |   |
+|  Hybrid  |   |
