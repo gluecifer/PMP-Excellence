@@ -80,6 +80,9 @@ There are two main categories of processes:
 Processes can be an input to another process. If all processes are worked through, the project is completed. 
 Processes can be divided in sequential, parallel and iteractive schemes.
 
+### Phases
+Project phases are sections within a project. They are usually depending on the product or the industry. Project phases are not to be confused with the *process groups*. Typically, phases are running in sequences, however, they might run in parallel. Normally, a phase ends with a phase gate at wich different deliverables are to be finished. The project is the sum of all phases. There are three main phase models:
+
 ![alt text][sequential]
 
 [sequential]: ./assets/images/sequential.png
