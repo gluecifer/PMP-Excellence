@@ -120,7 +120,7 @@ Lifecycles of a project are ranging from classical to agile and anywhere in betw
 |---|---|
 | Predictive  | <ul><li>Defined scope, schedule, cost at the beginning</li><li>Plan-driven</li><li>Not flexible</li></ul>  |
 | Iterative  | <ul><li>Defined as much as possible at the beginning</li><li>Change to the baseline of scope, schedule or cost as you go</li><li>Looping through and repeating project phases as required</li></ul> |
-| Incremental  |   |
-| Adaptive  |   |
+| Incremental  | <ul><li>Deliverables are small</li><li>Get feedback from the stakeholders for each deliverable</li><li>The final iteration combines all deliverables to the end product</li></ul>  |
+| Adaptive  | <ul><li>Agile</li><li>change-driven</li><li>Scope will be set at the beginning of each iteration or project phase</li><li>Deliverables are small increments of the final product</li></ul>  |
 |  Hybrid  |   |
 
