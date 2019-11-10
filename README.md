@@ -89,8 +89,8 @@ The PMP methodology defines 49 processes, ordered by *knowledge areas* and * pro
 | Schedule management  |   | <ul><li>Plan schedule management</li><li>Define activities</li><li>Sequence activities</li><li>Estimate activity duration</li><li>Develop schedule</li></ul>   |   | <ul><li>Control schedule</li></ul>   |   |
 | Cost management  |   | <ul><li>Plan cost management</li><li>Estimate costs</li><li>Determine budget</li></ul>  |   |  <ul><li>Control costs</li></ul> |   |
 | Quality management  |   | <ul><li>Plan quality management</li></ul>   | <ul><li>Manage quality</li></ul>   | <ul><li>Control quality</li></ul>   |   |
-| Resource management  |   |   |   |   |   |
-| Communication management  |   |   |   |   |   |
+| Resource management  |   | <ul><li>Plan resource management</li><li>Estimate activity resources</li></ul>  | <ul><li>Aquire resources</li><li>Develop team</li><li>Manage team</li></ul>  | <ul><li>Control resources</li></ul>   |   |
+| Communication management  |   | <ul><li>Plan communications management</li></ul>  | <ul><li>Manage communications</li></ul>  | <ul><li>Monitor communications</li></ul>  |   |
 | Risk management  |   |   |   |   |   |
 | Procurement management  |   |   |   |   |   |
 | Stakeholder management  |   |   |   |   |   |
