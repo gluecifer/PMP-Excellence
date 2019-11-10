@@ -118,8 +118,7 @@ Lifecycles of a project are ranging from classical to agile and anywhere in betw
 
 | Lifecycle name   | Description   |
 |---|---|
-| Predictive  | + Defined scope, schedule, cost at the beginning
-                + test |
+| Predictive  | <ul><li>Defined scope, schedule, cost at the beginning</li><li>Plan-driven</li><li>Not flexible</li></ul>  |
 | Iterative  |  |
 | Incremental  |   |
 | Adaptive  |   |
