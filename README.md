@@ -82,7 +82,7 @@ Processes can be divided in sequential, parallel and iteractive schemes.
 
 The PMP methodology defines 49 processes, ordered by *knowledge areas* and * process groups*:
 
-| Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
+| | Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
 |---|---|---|---|---|---|
 | Integration management  |   |   |   |   |   |
 | Scope management  |   |   |   |   |   |
