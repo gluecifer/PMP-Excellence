@@ -84,7 +84,7 @@ The PMP methodology defines 49 processes, ordered by *knowledge areas* and * pro
 
 | | Initiating  | Planning  | Executing  | Monitoring & Controlling  | Closing  |
 |---|---|---|---|---|---|
-| Integration management  |   |   |   |   |   |
+| Integration management  | <ul><li>Develop project charter</li></ul>   |  <ul><li>Develop project management plan</li></ul> | <ul><li>Direct & manage project work</li><li>Manage project knowledge</li></ul>  | <ul><li>Monitor & control project work</li><li>Perform integrated change control</li></ul>  |  <ul><li>Closing project or phase</li></ul> |
 | Scope management  |   |   |   |   |   |
 | Schedule management  |   |   |   |   |   |
 | Cost management  |   |   |   |   |   |
