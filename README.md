@@ -142,3 +142,5 @@ Lifecycles of a project are ranging from classical to agile and anywhere in betw
 | Adaptive  | <ul><li>Agile</li><li>change-driven</li><li>Scope will be set at the beginning of each iteration or project phase</li><li>Deliverables are small increments of the final product</li></ul>  |
 |  Hybrid  | Any cobination of the above  |
 
+## The bigger picture
+Projects are a direct way of adding value to a company. A company, however, normally does not only deal with one type of projects. Similar projects need to be aligned and managed to create synergies , harmonization effects 
