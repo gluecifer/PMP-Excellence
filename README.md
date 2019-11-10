@@ -123,3 +123,13 @@ Lifecycles of a project are ranging from classical to agile and anywhere in betw
 | Incremental  |   |
 | Adaptive  |   |
 |  Hybrid  |   |
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
