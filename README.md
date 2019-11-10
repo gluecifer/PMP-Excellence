@@ -143,4 +143,4 @@ Lifecycles of a project are ranging from classical to agile and anywhere in betw
 |  Hybrid  | Any cobination of the above  |
 
 ## The bigger picture
-Projects are a direct way of adding value to a company. A company, however, normally does not only deal with one type of projects. Similar projects need to be aligned and managed to create synergies , harmonization effects 
+Projects are a direct way of adding value to a company. A company, however, normally does not only deal with one type of projects. Similar projects need to be aligned and managed to create synergies and harmonization effects. A company typically combines similar projects to *programs*. The greater buisness goals are pooled together in *portfolios*, which are groups of programs or projects.
