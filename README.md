@@ -112,7 +112,7 @@ In the sequential process scheme yo do one phase activity at the same time. The 
 | Waterfall model | DMAIC: Define-Measure-Analyze-Improve-Control |
 | Slow and expensive reactions to changing requirements | Change requests are nearly impossible as requirements are set in the define phase |
 
-|   |   |
+| Classical projects   | Agile projects   |
 |---|---|
 |   |   |
 |   |   |
