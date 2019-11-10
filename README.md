@@ -91,9 +91,9 @@ The PMP methodology defines 49 processes, ordered by *knowledge areas* and * pro
 | Quality management  |   | <ul><li>Plan quality management</li></ul>   | <ul><li>Manage quality</li></ul>   | <ul><li>Control quality</li></ul>   |   |
 | Resource management  |   | <ul><li>Plan resource management</li><li>Estimate activity resources</li></ul>  | <ul><li>Aquire resources</li><li>Develop team</li><li>Manage team</li></ul>  | <ul><li>Control resources</li></ul>   |   |
 | Communication management  |   | <ul><li>Plan communications management</li></ul>  | <ul><li>Manage communications</li></ul>  | <ul><li>Monitor communications</li></ul>  |   |
-| Risk management  |   |   |   |   |   |
-| Procurement management  |   |   |   |   |   |
-| Stakeholder management  |   |   |   |   |   |
+| Risk management  |   |  <ul><li>Plan risk management</li><li>Identify risks</li><li>Perform qualitative risk analysis</li><li>Perform quantitative risk analysis</li><li>Plan risk response</li></ul> | <ul><li>Implement risk response</li></ul>  |  <ul><li>Monitor risks</li></ul>  |   |
+| Procurement management  |   | <ul><li>Plan procurement management</li></ul>  | <ul><li>Conduct requirements</li></ul>  | <ul><li>Control procurements</li></ul>  |   |
+| Stakeholder management  | <ul><li>Identify stakeholders</li></ul>   | <ul><li>Plan stakeholder management</li></ul>  | <ul><li>Manage stakeholder engagement</li></ul>   | <ul><li>Monitor stakeholder engagement</li></ul>  |   |
 
 ### Phases
 Project phases are sections within a project. They are usually depending on the product or the industry. Project phases are not to be confused with the *process groups*. Typically, phases are running in sequences, however, they might run in parallel. Normally, a phase ends with a phase gate at wich different deliverables are to be finished. The project is the sum of all phases. There are three main phase models:
