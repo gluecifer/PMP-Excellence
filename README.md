@@ -151,8 +151,11 @@ Projects are a direct way of adding value to a company. A company, however, norm
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
 
 ### Net present value
-The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. Central to the calculation is the discount rate 
+The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. Central to the calculation is the factor for discounting future payments 
 
  n<sub>t</sub>(x) = 1 / (1 + i)<sup>t</sup>
+ 
+ *i* being the discount rate
+ *t* being the number of time periods (years/months) from now.
 
 ### Cost-benefit-analysis
