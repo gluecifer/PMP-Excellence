@@ -156,6 +156,11 @@ The future value (or a series thereof) of a project will be represented in today
  n<sub>t</sub>(x) = 1 / (1 + i)<sup>t</sup>
  
  *i* being the discount rate
+ 
  *t* being the number of time periods (years/months) from now.
+ 
+ Further, each period is represented by its balance of incoming cash flow and outgoing cash flow R<sub>t</sub>
+ 
+ R<sub>t</sub> = r<sub>t, in</sub> r<sub>t, out</sub>
 
 ### Cost-benefit-analysis
