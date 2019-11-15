@@ -162,5 +162,9 @@ The future value (or a series thereof) of a project will be represented in today
  Further, each period is represented by its balance of incoming cash flow, r<sub>t, in</sub>, and outgoing cash flow, r<sub>t, out</sub>, R<sub>t</sub>
  
  R<sub>t</sub> = r<sub>t, in</sub> - r<sub>t, out</sub>
+ 
+ The Net Present Value (NPV) is the sum over all of those future balances shifted to the present by the discount rate.
+ 
+ NPV = &sum<sub>t</sum><sup>N</sup> R<sub>t</sub> / (1 + i)<sup>t</sup>
 
 ### Cost-benefit-analysis
