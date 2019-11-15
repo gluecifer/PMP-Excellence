@@ -153,6 +153,6 @@ Coming to a conclusion is a difficult process. The complexer the problem, the ha
 ### Net present value
 The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. Central to the calculation is the discount rate 
 
- h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ n<sub>t</sub>(x) = 1 / (1 + i)<up>t</up>
 
 ### Cost-benefit-analysis
