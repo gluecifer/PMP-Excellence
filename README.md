@@ -165,6 +165,6 @@ The future value (or a series thereof) of a project will be represented in today
  
  The Net Present Value (NPV) is the sum over all of those future balances shifted to the present by the discount rate.
  
- NPV = &sum<sub>t</sum><sup>N</sup> R<sub>t</sub> / (1 + i)<sup>t</sup>
+ NPV = &sum;<sub>t</sum><sup>N</sup> R<sub>t</sub> / (1 + i)<sup>t</sup>
 
 ### Cost-benefit-analysis
