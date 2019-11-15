@@ -170,8 +170,8 @@ The future value (or a series thereof) of a project will be represented in today
  Assume a discount rate, i, of 0.05
  If the initial cost for a project (today, i.e. year zero) are $100,000 and the values for cash balance for the first year R<sub>1</sub> = -10,000 and for R<sub>2</sub> = -10,000 and R<sub>3</sub> = -5,000 then is the 
  
- NPV = -100,000 - 10,000 / (1 + i)<sup>1</sup> - 10,000 / (1 + i)<sup>2</sup> - 5,000 / (1 + i)<sup>3</sup>   
+ NPV = -100,000 - 10,000 / (1 + 0.05)<sup>1</sup> - 10,000 / (1 + 0.05)<sup>2</sup> - 5,000 / (1 + 0.05)<sup>3</sup>   
  
- NPV = -100,000 - 10,000 * 0.909 - 10,000 * 0.8264 - 5,000 * 0.7513 = $11111.95   
+ NPV = -100,000 - 10,000 * 0.9523 - 10,000 * 0.907 - 5,000 * 0.8638 = $12913.3   
 
 ### Cost-benefit-analysis
