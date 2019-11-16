@@ -150,8 +150,8 @@ Projects are a direct way of adding value to a company. A company, however, norm
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
 
-### Net present value
-The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. Central to the calculation is the factor for discounting future payments 
+### Compound interest
+Central to the following calculations is is the factor for discounting future payments 
 
  n<sub>t</sub>(x) = 1 / (1 + i)<sup>t</sup>
  
@@ -162,8 +162,11 @@ The future value (or a series thereof) of a project will be represented in today
  Further, each period is represented by its balance of incoming cash flow, r<sub>t, in</sub>, and outgoing cash flow, r<sub>t, out</sub>, R<sub>t</sub>
  
  R<sub>t</sub> = r<sub>t, in</sub> - r<sub>t, out</sub>
- 
- The Net Present Value (NPV) is the sum over all of those future balances shifted to the present by the discount rate.
+
+### Net present value
+The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. 
+
+ The [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value) (NPV) is the sum over all of those future balances shifted to the present by the discount rate.
  
  NPV = &sum; R<sub>t</sub> / (1 + i)<sup>t</sup>
  
@@ -175,3 +178,6 @@ The future value (or a series thereof) of a project will be represented in today
  NPV = -100,000 - 10,000 * 0.9523 - 10,000 * 0.907 - 5,000 * 0.8638 = $12913.3   
 
 ### Cost-benefit-analysis
+The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) (sometimes also calles benefit-cost-analysis) is used to make a decision based on the most beneficial cost of two projects.
+
+In the simplest case, the 
