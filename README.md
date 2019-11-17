@@ -225,6 +225,30 @@ NPV = &sum; R<sub>t</sub> / (1 + i)<sup>t</sup> = 0
 
 This formula can only be solved numerically with methods like the [Newton-Raphson](https://en.wikipedia.org/wiki/Newton%27s_method) scheme. In order to estimate a solution, the regula-falsi-formula 
 
-IRR<sub>RFF</sub> = i<sub>test1</sub> - NPV<sub>test1</sub> * ((i<sub>test2</sub> - i<sub>test1</sub>) / (NPV<sub>test2</sub> - NPV<sub>test1</sub>))
+i<sub>RFF</sub> = i<sub>test1</sub> - NPV<sub>test1</sub> * ((i<sub>test2</sub> - i<sub>test1</sub>) / (NPV<sub>test2</sub> - NPV<sub>test1</sub>))
 
 can be used.
+The regula-falsi approach needs to test interest rates, which are given in the tables below. 
+For the first test, a rate, i<sub>test1</sub>, of 0.04 is assumed.
+
+|Year | Cash flow | DCF |  
+|---|---|---|
+|0|-$100,000|-$100,000 |
+|1|$5,000|$4,807|
+|2|$5,000|$97,078|
+
+The DCF values and the initial investment are summed up to a NPV of $1886 for test 1.
+
+For the second test, a rate, i<sub>test1</sub>, of 0.08 is assumed.
+
+|Year | Cash flow | DCF |  
+|---|---|---|
+|0|-$100,000|-$100,000 |
+|1|$5,000|$4,629|
+|2|$5,000|$90,020|
+
+The DCF values and the initial investment are summed up to a *negative* NPV of $5349 for test 2.
+
+The regula-falsi-formula approximates the IRR accordingly:
+
+i<sub>RFF</sub> = 0.04 - 1886 * ((0.08 - 0.04) / (-5349 - 1886)) = 0.05
