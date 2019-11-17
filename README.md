@@ -178,6 +178,12 @@ The future value (or a series thereof) of a project will be represented in today
  NPV = -100,000 - 10,000 * 0.9523 - 10,000 * 0.907 - 5,000 * 0.8638 = $12913.3   
 
 ### Cost-benefit-analysis
-The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) (sometimes also calles benefit-cost-analysis) is used to make a decision based on the most beneficial cost of two projects.
+The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) (CBA) (sometimes also calles benefit-cost-analysis) is used to make a decision based on the most beneficial cost of two projects.
 
-In the simplest case, the 
+In the simplest case, the CBA subtracts the cost of this year (year zero) from the benefit in this year. *Benefit* is an umbrella term for any money related surplus like revenue, net cash flow or net income. 
+
+Comparing the following two projects with CBA will be resulting in chosing Project 1 over Project 2:
+
+|Project | Benefit | Cost | CBA result | 
+|---|---|---|---|
+|1|$50,000|$40,000|$10,000|
