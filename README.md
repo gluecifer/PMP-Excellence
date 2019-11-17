@@ -274,3 +274,8 @@ WACC - Weighted average of capital costs
 |WACC|7 %|
 |NOPAT|$8,000|
 |EVA |$1,000 |
+
+### Weighted scoring model
+Weights are used to rank the influence of different factors. All factors together with their weights are summed-up to calculate a rating factor. The higher the rating factor the better the project. 
+The sum of all weights is 100 %. 
+
