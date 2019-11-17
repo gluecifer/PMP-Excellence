@@ -163,19 +163,36 @@ Central to the following calculations is is the factor for discounting future pa
  
  R<sub>t</sub> = r<sub>t, in</sub> - r<sub>t, out</sub>
 
-### Net present value
+### Discounted cash flow
 The future value (or a series thereof) of a project will be represented in todays value. The problem is that the value of money changes over time. 
 
- The [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value) (NPV) is the sum over all of those future balances shifted to the present by the discount rate.
+ The [Discounted Cash Flow](https://en.wikipedia.org/wiki/Discounted_cash_flow) (DCF) is the sum over all of those future balances shifted to the present by the discount rate.
  
- NPV = &sum; R<sub>t</sub> / (1 + i)<sup>t</sup>
+ DCF = &sum; R<sub>t</sub> / (1 + i)<sup>t</sup>
  
- Assume a discount rate, i, of 0.05
- If the initial cost for a project (today, i.e. year zero) are $100,000 and the values for cash balance for the first year R<sub>1</sub> = -10,000 and for R<sub>2</sub> = -10,000 and R<sub>3</sub> = -5,000 then is the 
+ The DCF calculates the value of future cash flows in todays money. The larger DCF project value will be chosen, when comparing two projects. Assume a discount rate, i, of 0.05
  
- NPV = -100,000 - 10,000 / (1 + 0.05)<sup>1</sup> - 10,000 / (1 + 0.05)<sup>2</sup> - 5,000 / (1 + 0.05)<sup>3</sup>   
+ DCF<sub>1</sub>  = 1,000 / (1 + 0.05)<sup>1</sup> + 1,000 / (1 + 0.05)<sup>2</sup> + 1,000 / (1 + 0.05)<sup>3</sup>   
  
- NPV = -100,000 - 10,000 * 0.9523 - 10,000 * 0.907 - 5,000 * 0.8638 = $12913.3   
+ DCF<sub>1</sub> = 1,000 * 0.9523 + 1,000 * 0.907 + 1,000 * 0.8638 = $2723
+ 
+ Assume that the second project will not gain any benefits for the first two years, however, will incurre a benefit of $3000 in the third year.
+ 
+ DCF<sub>2</sub> = 0 / (1 + 0.05)<sup>1</sup> + 0 / (1 + 0.05)<sup>2</sup> + 3,000 / (1 + 0.05)<sup>3</sup>  
+ 
+ DCF<sub>2</sub> = 0 + 0 + 3,000 * 0.8638 = $2591
+ 
+ DCF of project 1 is larger than the DCF of project 2, thus, project 1 is to be chosen.
+
+### Net present value
+The [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value) (NPV) is an DCF calculation which takes the initial investment into account (see [this](https://www.quora.com/Is-there-any-difference-between-net-present-value-and-discounted-cash-flow) Quora answer as a reference). 
+ 
+ Assume a discount rate, i, of 0.05 from the previous examples given in the DCF chapter.
+ If the initial cost for a project (today, i.e. year zero) are $2,000 and the values for cash balance for the first year R<sub>1</sub> = 1,000 and for R<sub>2</sub> = 1,000 and R<sub>3</sub> = 1,000 then is the 
+ 
+ NPV = -2,000 + 1,000 / (1 + 0.05)<sup>1</sup> + 1,000 / (1 + 0.05)<sup>2</sup> + 1,000 / (1 + 0.05)<sup>3</sup>   
+ 
+ NPV = -2,000 + 1,000 * 0.9523 + 1,000 * 0.907 + 1,000 * 0.8638 = $723
 
 ### Cost-benefit-analysis
 The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) (CBA) (sometimes also calles benefit-cost-analysis) is used to make a decision based on the most beneficial cost of two projects.
@@ -191,6 +208,7 @@ Comparing the following two projects with CBA will be resulting in chosing Proje
 
 If benefits or costs are estimated to ocure in the future, the discount rate need to be applied on those. Assume that the costs are incurred today (year zero) and the benefits will incurre in the next year. Similar to the NPV, we will represent the values in todays money to make it comparable to Project 1.
 
- CBA<sup>Project1</sup> = 35,000 / (1 + 0.06)<sup>1</sup> - 23,400 / (1 + 0.06)<sup>0</sup> = $9,618.87
+ CBA<sub>Project1</sub> = 35,000 / (1 + 0.06)<sup>1</sup> - 23,400 / (1 + 0.06)<sup>0</sup> = $9,618.87
  
  In this case, Project 1 is favourable over Project 2.
+
