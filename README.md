@@ -190,9 +190,15 @@ The [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value) (NPV) i
  Assume a discount rate, i, of 0.05 from the previous examples given in the DCF chapter.
  If the initial cost for a project (today, i.e. year zero) are $2,000 and the values for cash balance for the first year R<sub>1</sub> = 1,000 and for R<sub>2</sub> = 1,000 and R<sub>3</sub> = 1,000 then is the 
  
- NPV = -2,000 + 1,000 / (1 + 0.05)<sup>1</sup> + 1,000 / (1 + 0.05)<sup>2</sup> + 1,000 / (1 + 0.05)<sup>3</sup>   
+ NPV<sub>1</sub> = -2,000 + 1,000 / (1 + 0.05)<sup>1</sup> + 1,000 / (1 + 0.05)<sup>2</sup> + 1,000 / (1 + 0.05)<sup>3</sup>   
  
- NPV = -2,000 + 1,000 * 0.9523 + 1,000 * 0.907 + 1,000 * 0.8638 = $723
+ NPV<sub>1</sub> = -2,000 + 1,000 * 0.9523 + 1,000 * 0.907 + 1,000 * 0.8638 = $723
+ 
+ Assume that the initial investment for project 2 is only $1500. The respective NPV is then
+ 
+ NPV = -1,500 + 3,000 * 0.8638 = $1091
+ 
+ Considering the initial cost of an project may lead to other investment decisions. As the NPV of project 2 is larger than the one of project 1, project 2 is the more promissing project.
 
 ### Cost-benefit-analysis
 The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) (CBA) (sometimes also calles benefit-cost-analysis) is used to make a decision based on the most beneficial cost of two projects.
