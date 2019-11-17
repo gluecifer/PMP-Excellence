@@ -218,3 +218,13 @@ If benefits or costs are estimated to ocure in the future, the discount rate nee
  
  In this case, Project 1 is favourable over Project 2.
 
+### Internal rate of return
+The [Internal Rate of Return](https://en.wikipedia.org/wiki/Internal_rate_of_return) (IRR) calculates the discount rate *i* at which benefits and costs equal each other, i.e. the NPV is equal to zero. Therefore, a good investment is one with an discount rate above the IRR. The term internal highlights the fact that the IRR is not considering external factors like inflation. Those external factors are assumed to be equal for all projects under investigation and do not help in the decision making process at this time. 
+
+NPV = &sum; R<sub>t</sub> / (1 + i)<sup>t</sup> = 0
+
+This formula can only be solved numerically with methods like the [Newton-Raphson](https://en.wikipedia.org/wiki/Newton%27s_method) scheme. In order to estimate a solution, the regula-falsi-formula 
+
+IRR<sub>RFF</sub> = i<sub>test1</sub> - NPV<sub>test1</sub> * ((i<sub>test2</sub> - i<sub>test1</sub>) / (NPV<sub>test2</sub> - NPV<sub>test1</sub>))
+
+can be used.
