@@ -147,6 +147,17 @@ Projects are a direct way of adding value to a company. A company, however, norm
 
 *Operations* are another term to distinguish from a project. Operations are ongoing. Production lines for example are operations. Modernizing a production line within six months, while keeping production up, would be a project.
 
+### Business case
+Writting up a business case forces the writer to make the case for the project. 
++ definition of the requirements that a company has
++ Lists the reasons for a project
++ Is used to authorize a project
++ Identifies key-stakeholder
++ Analyzes the market situation by means of different techniques (e.g. gap analysis, risk analysis)
++ Uses key performance indicators (e.g. ROI, EVA, NPV)
++ Defines the scope of a project
++ Concludes the decision making
+
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
 
