@@ -182,8 +182,15 @@ The [cost-benefit-analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_a
 
 In the simplest case, the CBA subtracts the cost of this year (year zero) from the benefit in this year. *Benefit* is an umbrella term for any money related surplus like revenue, net cash flow or net income. 
 
-Comparing the following two projects with CBA will be resulting in chosing Project 1 over Project 2:
+Comparing the following two projects with CBA will be resulting in chosing Project 2 over Project 1:
 
 |Project | Benefit | Cost | CBA result | 
 |---|---|---|---|
 |1|$50,000|$40,000|$10,000|
+|2|$35,000|$23,400|$11,600|
+
+If benefits or costs are estimated to ocure in the future, the discount rate need to be applied on those. Assume that the costs are incurred today (year zero) and the benefits will incurre in the next year. Similar to the NPV, we will represent the values in todays money to make it comparable to Project 1.
+
+ CBA<sup>Project1</sup> = 35,000 / (1 + 0.06)<sup>1</sup> - 23,400 / (1 + 0.06)<sup>0</sup> = $9,618.87
+ 
+ In this case, Project 1 is favourable over Project 2.
