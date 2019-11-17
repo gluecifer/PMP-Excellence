@@ -252,3 +252,25 @@ The DCF values and the initial investment are summed up to a *negative* NPV of $
 The regula-falsi-formula approximates the IRR accordingly:
 
 i<sub>RFF</sub> = 0.04 - 1886 * ((0.08 - 0.04) / (-5349 - 1886)) = 0.05
+
+### Return on investment
+[Return on investmen](https://en.wikipedia.org/wiki/Return_on_investment) (ROI) is the ration between net profit and invested capital. ROI is not dependent on the size of a project, thus, it can be used to compare different sized projects.
+The larger the ROI the better. 
+
+### Economic value added
+The [Economic Value Added](https://en.wikipedia.org/wiki/Economic_value_added) (EVA) compares the net profits which the capital costs. Value is added if the net profits are larger than the costs. 
+
+EVA = NOPAT - WACC * NOA
+
+NOPAT - net operating profit after taxes
+
+NOA - Net operating assets
+
+WACC - Weighted average of capital costs
+
+| | Period |  
+|---|---|
+|NOA|-$100,000|
+|WACC|7 %|
+|NOPAT|$8,000|
+|EVA |$1,000 |
