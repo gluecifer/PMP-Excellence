@@ -222,7 +222,35 @@ The project-oriented organization type is absolutely project-centered. Teams are
 + Power over budget of the PM: Full
 + PM as a full-time job: Yes
 
-Apart from functional, matrix or project-based organizations there are other forms  
+Small companies may be heavily influenced by the owner. The structure of the company is more *organic* rather than one of the former three catecgories. In organic companies, the budget decisions are made by the company owner and the project manager has changing projects and responsibilities.
+
+Each organization type has specific advantages and disadvantages.
+Functional organisation:
++ Advantages:
+    + Hierachies are well defined and comprehensible for the employees.
+    + Carrer paths are well defined
+    + Specialized carrer paths are possible
++ Disadvantages:
+    + Project managers are not equiped with much power
+    + There is competition for resources between different projects
+    + The single members of a project team are loyal to their functional manager instead of the project manager
+Matrix organization:
++ Advantages:
+    + More control over ressources in a project
+    + The project manager has increased authority
+    + The PM can gain support for the project from functional managers
++ Disadvantages:
+    + The PM has to balance project needs and the requirements of functional managers
+    + Conflicts of interests can occure
+    + The matrix organization increases the organizational complexity
+Project-oriented organization:
++ Advantages:
+    + The PM has full authority
+    + Project communications are less complex
+    + Employees are loyal to the project
++ Disadvantages:
+    + Employees need another project after the previous project came to an end
+    + Less optimal usage of resources
 
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
