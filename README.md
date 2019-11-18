@@ -185,6 +185,45 @@ External factors are:
         + Optimizing the use of available resources
         + Making resources avaiailable in a timely manner
 
+### Company organizations
+There are three main organizations:
++ Functional organizations
++ Matrix organizations
++ Project-oriented organizations
+
+The functional organization type is the least project-oriented structure. It is strictly hierachical with functional managers calling all shots. Project managers are not typical in those organizations or do not excercise much power.
++ Responisibilities of the PM: None/low
++ Power over resorces of the PM: None/low
++ Power over budget of the PM: None/low
++ PM as a full-time job: No
+
+The matrix organization type is in-between project-oriented structures and functional ones. It is divided into three sub-groups: *weak, balanced and strong* matrix organizations.
+Weak matrix:
++ Responisibilities of the PM: Limited
++ Power over resorces of the PM: Limited
++ Power over budget of the PM: None/low
++ PM as a full-time job: No
+
+Balanced matrix:
++ Responisibilities of the PM: Shared with functional managers
++ Power over resorces of the PM: Shared with functional managers
++ Power over budget of the PM: Shared with functional managers
++ PM as a full-time job: Yes
+
+Strong matrix:
++ Responisibilities of the PM: Very high
++ Power over resorces of the PM: Very high
++ Power over budget of the PM: Very high
++ PM as a full-time job: Yes
+
+The project-oriented organization type is absolutely project-centered. Teams are organized around projects and will be mixed anew for the next project.
++ Responisibilities of the PM: Full
++ Power over resorces of the PM: Full
++ Power over budget of the PM: Full
++ PM as a full-time job: Yes
+
+Apart from functional, matrix or project-based organizations there are other forms  
+
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
 
