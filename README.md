@@ -174,9 +174,16 @@ There are two main branches of influences for any given project.
     + Company culture
     + Project management information system (PMIS)
 External factors are: 
- - Applicable policies  
- - Market conditions
+    - Applicable policies  
+    - Market conditions
 + Organizational process assets: Organizational process assets are processes, procedures and guidlines. Further, it is the accumulated knowledge (e.g. lessons learned) of a company. It also can be a collection of templates to be used.
++ Organizational gouvernance frameworks:
+    + Organizational structures: Roles, Hierechies, Procedures, Responsibilities which need guidance adn steering, which are data-driven and need feedback.
+    + OGF steer the organization towards it's goals, controls and monitors risks adn improves the performance of the company.
+    + Typical tasks:
+        + Unity of command and unity of direction: Clearly define responsibilities
+        + Optimizing the use of available resources
+        + Making resources avaiailable in a timely manner
 
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
