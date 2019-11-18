@@ -258,6 +258,20 @@ Project-oriented organization:
 
 ### Project management office 
 The Project Management Office (PMO) yields control over all projects within a organization. Ressources are managed and are allocated to projects from the PMO. Further, funding for projects are decided on by th PMO. The PMO standardizes processes and procedures for all projects. Tools and software are selected by th PMO. The PMO trains and consults all project managers and supports individual projects. The PMO controls the projects and the PMs in regards to the used procedures, techniques and workflows. The PMO can be the directive authority over single projects by assigning a member of the PMO to the project.  
+### Stakeholder and project sponsors
+A stakeholder is everyone who is affected by the project:
++ Members of the project team
++ Persons who can influence the project
++ Project investors
++ Persons whon have expectations from the project
+
+Key-stakeholders usually bring power, money or influence to the table. The project sponsor is such a key-stakeholder. The sponsor is funding the project, i.e. providing the financial means to pull off the project. The sponsor may hold a directive position in regard to the PM. The sponsor can also organize the resources or any other essential project part. The sponsor can be a member of the *Change Control Board*. 
+
+Project heirachy:
+1. Project sponsor
+2. Project manager
+3. Project management-team
+4. Project team
 
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
