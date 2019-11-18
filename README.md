@@ -198,6 +198,7 @@ The functional organization type is the least project-oriented structure. It is 
 + PM as a full-time job: No
 
 The matrix organization type is in-between project-oriented structures and functional ones. It is divided into three sub-groups: *weak, balanced and strong* matrix organizations.
+
 Weak matrix:
 + Responisibilities of the PM: Limited
 + Power over resorces of the PM: Limited
@@ -225,6 +226,7 @@ The project-oriented organization type is absolutely project-centered. Teams are
 Small companies may be heavily influenced by the owner. The structure of the company is more *organic* rather than one of the former three catecgories. In organic companies, the budget decisions are made by the company owner and the project manager has changing projects and responsibilities.
 
 Each organization type has specific advantages and disadvantages.
+
 Functional organisation:
 + Advantages:
     + Hierachies are well defined and comprehensible for the employees.
@@ -234,6 +236,7 @@ Functional organisation:
     + Project managers are not equiped with much power
     + There is competition for resources between different projects
     + The single members of a project team are loyal to their functional manager instead of the project manager
+    
 Matrix organization:
 + Advantages:
     + More control over ressources in a project
@@ -243,6 +246,7 @@ Matrix organization:
     + The PM has to balance project needs and the requirements of functional managers
     + Conflicts of interests can occure
     + The matrix organization increases the organizational complexity
+    
 Project-oriented organization:
 + Advantages:
     + The PM has full authority
@@ -251,6 +255,9 @@ Project-oriented organization:
 + Disadvantages:
     + Employees need another project after the previous project came to an end
     + Less optimal usage of resources
+
+### Project management office 
+The Project Management Office (PMO) yields control over all projects within a organization. Ressources are managed and are allocated to projects from the PMO. Further, funding for projects are decided on by th PMO. The PMO standardizes processes and procedures for all projects. Tools and software are selected by th PMO. The PMO trains and consults all project managers and supports individual projects. The PMO controls the projects and the PMs in regards to the used procedures, techniques and workflows. The PMO can be the directive authority over single projects by assigning a member of the PMO to the project.  
 
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
