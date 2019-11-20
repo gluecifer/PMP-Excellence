@@ -301,6 +301,13 @@ Leadership:
 Strategic and business maagement:
 + Industry specific expertise and deep knowledge of the compynies structure are used by the PM to improve the quality of the work.
 
+There are different types of leadership:
++ Laissez-faire: The team sets it's goals and handles leadership itself. The leader only intervenes, if the team cannot find a compromise.
++ Transactional: Setting goals and keeping track of the teams progress. The leader acts when the team strayes from the plan.
++ Charismatic: The leader inspires through their personalities and beliefs. 
++ Transformational: Leaders which inspiry by enabling and motivating the team to change the environment and innovate.
++ Servant leader: Serve solutions to problems for single team members to help them archive their individual goals.
+
 
 
 ## Decision making
