@@ -273,6 +273,27 @@ Project heirachy:
 3. Project management-team
 4. Project team
 
+### The project manager
+The Project Manager (PM) is responsible for bringing the project to a sucessful end and reach all project goals.
+He coordinates all project roles and has the responsibility for the project team. He uses his knowlefge and his skills to bring the project to a sucess. The PM balances different constraints, communicates with the stakeholders, solves conflicts and has the deciding power.
+
+Within the company, the PM is in contact with the other PMs. Together they solve internal problems and decide on strategies together with the sponsor. The PM advocates on behalf of the project management to increase the acceptance of the project management within the company.
+
+The PM stays up-to-date and is informed about trends in the industry. The PM evaluates if new techniques can be used for the project. It is important to keep up as it directly influences products, markets, standards.
+
+According to the PMI the project manager has three defining skills: Technical project management, leadership and strategic and business maagement. The PMI summarizes those in the [Talent Triangle](https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/talent-triangle-flyer.pdf).
+
+Technical project management:
++ Knowledge, skills are the basis for each PM, program or portfolio manager.
+
+Leadership:
++ Knowledge and skills for leading a group of people, to motivate and to reach set goals.
+
+Strategic and business maagement:
++ Industry specific expertise and deep knowledge of the compynies structure are used by the PM to improve the quality of the work.
+
+
+
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
 
