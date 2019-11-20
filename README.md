@@ -288,6 +288,15 @@ Technical project management:
 
 Leadership:
 + Knowledge and skills for leading a group of people, to motivate and to reach set goals.
++ A leader is:
+    + a visionary
+    + optimistic
+    + cooperative
+    + communicative
+    + creates trust
+    + manages expectations
+    + gives feedback
+    + a lifelong learner
 
 Strategic and business maagement:
 + Industry specific expertise and deep knowledge of the compynies structure are used by the PM to improve the quality of the work.
