@@ -308,7 +308,7 @@ There are different types of leadership:
 + Transformational: Leaders which inspiry by enabling and motivating the team to change the environment and innovate.
 + Servant leader: Serve solutions to problems for single team members to help them archive their individual goals.
 
-
+In the end the PM is the integrator of the project. The PM integrates processes, work, knowledge and people to fulfill the project goals. The PM works closely with the sponsor and understands the project goals and related strategic decisions and priorities and transports those into the project.
 
 ## Decision making
 Coming to a conclusion is a difficult process. The complexer the problem, the harder is the decision making. In order to guide the decision making process, several indicators have been developed. The main purpose is to make a decision regarding between two or more projects, i.e. is it worth pursuing project A over B or the other way around.
