@@ -168,11 +168,14 @@ The benefits management plan defines the benefits the added value, which a proje
 
 ### The project is influenced!
 There are two main branches of influences for any given project.
-+ Enterprse environmental factors: Enterprise envirnonmental factors can be internal or external. Internal factors are:
++ Enterprse environmental factors: Enterprise envirnonmental factors can be internal or external. 
+
+Internal factors are:
     + Company strategy
     + Company structure
     + Company culture
     + Project management information system (PMIS)
+    
 External factors are: 
     - Applicable policies  
     - Market conditions
